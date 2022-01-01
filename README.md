@@ -6,7 +6,6 @@ The backup to the SQLite files are found here.
 https://mega.nz/folder/NkFSlBCa#8zWYvIoW8hSfda0qN8j3KA
 
 
-
 This is the structure of the SQLite file. 
 
 The `FILE` column contains the actual IoT malware that my tracker grabbed.
